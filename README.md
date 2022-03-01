@@ -20,15 +20,6 @@ My Family
 [`Baileys`](https://github.com/adiwajshing/Baileys) 
 
 
-## `BASEBOT`
-
-[`Click Here`](https://github.com/HelgaIlham/BaseeZuka)
-
-
-## `CHANGE SESSION`
-
-[`Click Here`](https://github.com/Kilersbotz/KilersBotz/blob/master/session.json)
-
 ## `SETTING`
 
 - Owner number [Here](https://github.com/KilerBotz/KilersBotz/blob/master/settings.json)
